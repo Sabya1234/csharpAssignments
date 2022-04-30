@@ -1,0 +1,13 @@
+C:\Users\UX500019\source\repos\OOPSExercise\CollectionExercise\bin\Debug\netcoreapp3.1\CollectionExercise.exe
+C:\Users\UX500019\source\repos\OOPSExercise\CollectionExercise\bin\Debug\netcoreapp3.1\CollectionExercise.deps.json
+C:\Users\UX500019\source\repos\OOPSExercise\CollectionExercise\bin\Debug\netcoreapp3.1\CollectionExercise.runtimeconfig.json
+C:\Users\UX500019\source\repos\OOPSExercise\CollectionExercise\bin\Debug\netcoreapp3.1\CollectionExercise.runtimeconfig.dev.json
+C:\Users\UX500019\source\repos\OOPSExercise\CollectionExercise\bin\Debug\netcoreapp3.1\CollectionExercise.dll
+C:\Users\UX500019\source\repos\OOPSExercise\CollectionExercise\bin\Debug\netcoreapp3.1\CollectionExercise.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\CollectionExercise\obj\Debug\netcoreapp3.1\CollectionExercise.AssemblyInfoInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\CollectionExercise\obj\Debug\netcoreapp3.1\CollectionExercise.AssemblyInfo.cs
+C:\Users\UX500019\source\repos\OOPSExercise\CollectionExercise\obj\Debug\netcoreapp3.1\CollectionExercise.csproj.CoreCompileInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\CollectionExercise\obj\Debug\netcoreapp3.1\CollectionExercise.dll
+C:\Users\UX500019\source\repos\OOPSExercise\CollectionExercise\obj\Debug\netcoreapp3.1\CollectionExercise.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\CollectionExercise\obj\Debug\netcoreapp3.1\CollectionExercise.genruntimeconfig.cache
+C:\Users\UX500019\source\repos\OOPSExercise\CollectionExercise\obj\Debug\netcoreapp3.1\CollectionExercise.csprojAssemblyReference.cache

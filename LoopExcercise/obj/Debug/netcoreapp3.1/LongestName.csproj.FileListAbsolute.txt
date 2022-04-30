@@ -1,0 +1,13 @@
+C:\Users\UX500019\source\repos\LoopExcercise\bin\Debug\netcoreapp3.1\LongestName.exe
+C:\Users\UX500019\source\repos\LoopExcercise\bin\Debug\netcoreapp3.1\LongestName.deps.json
+C:\Users\UX500019\source\repos\LoopExcercise\bin\Debug\netcoreapp3.1\LongestName.runtimeconfig.json
+C:\Users\UX500019\source\repos\LoopExcercise\bin\Debug\netcoreapp3.1\LongestName.runtimeconfig.dev.json
+C:\Users\UX500019\source\repos\LoopExcercise\bin\Debug\netcoreapp3.1\LongestName.dll
+C:\Users\UX500019\source\repos\LoopExcercise\bin\Debug\netcoreapp3.1\LongestName.pdb
+C:\Users\UX500019\source\repos\LoopExcercise\obj\Debug\netcoreapp3.1\LongestName.csprojAssemblyReference.cache
+C:\Users\UX500019\source\repos\LoopExcercise\obj\Debug\netcoreapp3.1\LongestName.AssemblyInfoInputs.cache
+C:\Users\UX500019\source\repos\LoopExcercise\obj\Debug\netcoreapp3.1\LongestName.AssemblyInfo.cs
+C:\Users\UX500019\source\repos\LoopExcercise\obj\Debug\netcoreapp3.1\LongestName.csproj.CoreCompileInputs.cache
+C:\Users\UX500019\source\repos\LoopExcercise\obj\Debug\netcoreapp3.1\LongestName.dll
+C:\Users\UX500019\source\repos\LoopExcercise\obj\Debug\netcoreapp3.1\LongestName.pdb
+C:\Users\UX500019\source\repos\LoopExcercise\obj\Debug\netcoreapp3.1\LongestName.genruntimeconfig.cache

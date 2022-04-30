@@ -1,0 +1,13 @@
+C:\Users\UX500019\source\repos\OOPSExercise\ClassHomeTask1\bin\Debug\netcoreapp3.1\EmloyeeNameSalary.exe
+C:\Users\UX500019\source\repos\OOPSExercise\ClassHomeTask1\bin\Debug\netcoreapp3.1\EmloyeeNameSalary.deps.json
+C:\Users\UX500019\source\repos\OOPSExercise\ClassHomeTask1\bin\Debug\netcoreapp3.1\EmloyeeNameSalary.runtimeconfig.json
+C:\Users\UX500019\source\repos\OOPSExercise\ClassHomeTask1\bin\Debug\netcoreapp3.1\EmloyeeNameSalary.runtimeconfig.dev.json
+C:\Users\UX500019\source\repos\OOPSExercise\ClassHomeTask1\bin\Debug\netcoreapp3.1\EmloyeeNameSalary.dll
+C:\Users\UX500019\source\repos\OOPSExercise\ClassHomeTask1\bin\Debug\netcoreapp3.1\EmloyeeNameSalary.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\ClassHomeTask1\obj\Debug\netcoreapp3.1\EmloyeeNameSalary.AssemblyInfoInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\ClassHomeTask1\obj\Debug\netcoreapp3.1\EmloyeeNameSalary.AssemblyInfo.cs
+C:\Users\UX500019\source\repos\OOPSExercise\ClassHomeTask1\obj\Debug\netcoreapp3.1\EmloyeeNameSalary.csproj.CoreCompileInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\ClassHomeTask1\obj\Debug\netcoreapp3.1\EmloyeeNameSalary.dll
+C:\Users\UX500019\source\repos\OOPSExercise\ClassHomeTask1\obj\Debug\netcoreapp3.1\EmloyeeNameSalary.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\ClassHomeTask1\obj\Debug\netcoreapp3.1\EmloyeeNameSalary.genruntimeconfig.cache
+C:\Users\UX500019\source\repos\OOPSExercise\ClassHomeTask1\obj\Debug\netcoreapp3.1\EmloyeeNameSalary.csprojAssemblyReference.cache

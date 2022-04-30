@@ -1,0 +1,13 @@
+C:\Users\UX500019\source\repos\OOPSExercise\FileHandlingExercise\bin\Debug\netcoreapp3.1\FileHandlingExercise.exe
+C:\Users\UX500019\source\repos\OOPSExercise\FileHandlingExercise\bin\Debug\netcoreapp3.1\FileHandlingExercise.deps.json
+C:\Users\UX500019\source\repos\OOPSExercise\FileHandlingExercise\bin\Debug\netcoreapp3.1\FileHandlingExercise.runtimeconfig.json
+C:\Users\UX500019\source\repos\OOPSExercise\FileHandlingExercise\bin\Debug\netcoreapp3.1\FileHandlingExercise.runtimeconfig.dev.json
+C:\Users\UX500019\source\repos\OOPSExercise\FileHandlingExercise\bin\Debug\netcoreapp3.1\FileHandlingExercise.dll
+C:\Users\UX500019\source\repos\OOPSExercise\FileHandlingExercise\bin\Debug\netcoreapp3.1\FileHandlingExercise.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\FileHandlingExercise\obj\Debug\netcoreapp3.1\FileHandlingExercise.csprojAssemblyReference.cache
+C:\Users\UX500019\source\repos\OOPSExercise\FileHandlingExercise\obj\Debug\netcoreapp3.1\FileHandlingExercise.AssemblyInfoInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\FileHandlingExercise\obj\Debug\netcoreapp3.1\FileHandlingExercise.AssemblyInfo.cs
+C:\Users\UX500019\source\repos\OOPSExercise\FileHandlingExercise\obj\Debug\netcoreapp3.1\FileHandlingExercise.csproj.CoreCompileInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\FileHandlingExercise\obj\Debug\netcoreapp3.1\FileHandlingExercise.dll
+C:\Users\UX500019\source\repos\OOPSExercise\FileHandlingExercise\obj\Debug\netcoreapp3.1\FileHandlingExercise.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\FileHandlingExercise\obj\Debug\netcoreapp3.1\FileHandlingExercise.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\UX500019\source\repos\OOPSExercise\Linqexercise\bin\Debug\netcoreapp3.1\Linqexercise.exe
+C:\Users\UX500019\source\repos\OOPSExercise\Linqexercise\bin\Debug\netcoreapp3.1\Linqexercise.deps.json
+C:\Users\UX500019\source\repos\OOPSExercise\Linqexercise\bin\Debug\netcoreapp3.1\Linqexercise.runtimeconfig.json
+C:\Users\UX500019\source\repos\OOPSExercise\Linqexercise\bin\Debug\netcoreapp3.1\Linqexercise.runtimeconfig.dev.json
+C:\Users\UX500019\source\repos\OOPSExercise\Linqexercise\bin\Debug\netcoreapp3.1\Linqexercise.dll
+C:\Users\UX500019\source\repos\OOPSExercise\Linqexercise\bin\Debug\netcoreapp3.1\Linqexercise.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\Linqexercise\obj\Debug\netcoreapp3.1\Linqexercise.csprojAssemblyReference.cache
+C:\Users\UX500019\source\repos\OOPSExercise\Linqexercise\obj\Debug\netcoreapp3.1\Linqexercise.AssemblyInfoInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\Linqexercise\obj\Debug\netcoreapp3.1\Linqexercise.AssemblyInfo.cs
+C:\Users\UX500019\source\repos\OOPSExercise\Linqexercise\obj\Debug\netcoreapp3.1\Linqexercise.csproj.CoreCompileInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\Linqexercise\obj\Debug\netcoreapp3.1\Linqexercise.dll
+C:\Users\UX500019\source\repos\OOPSExercise\Linqexercise\obj\Debug\netcoreapp3.1\Linqexercise.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\Linqexercise\obj\Debug\netcoreapp3.1\Linqexercise.genruntimeconfig.cache

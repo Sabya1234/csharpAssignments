@@ -1,0 +1,13 @@
+C:\Users\UX500019\source\repos\OOPSExercise\StringHomeTask\bin\Debug\netcoreapp3.1\StringHomeTask.exe
+C:\Users\UX500019\source\repos\OOPSExercise\StringHomeTask\bin\Debug\netcoreapp3.1\StringHomeTask.deps.json
+C:\Users\UX500019\source\repos\OOPSExercise\StringHomeTask\bin\Debug\netcoreapp3.1\StringHomeTask.runtimeconfig.json
+C:\Users\UX500019\source\repos\OOPSExercise\StringHomeTask\bin\Debug\netcoreapp3.1\StringHomeTask.runtimeconfig.dev.json
+C:\Users\UX500019\source\repos\OOPSExercise\StringHomeTask\bin\Debug\netcoreapp3.1\StringHomeTask.dll
+C:\Users\UX500019\source\repos\OOPSExercise\StringHomeTask\bin\Debug\netcoreapp3.1\StringHomeTask.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\StringHomeTask\obj\Debug\netcoreapp3.1\StringHomeTask.csprojAssemblyReference.cache
+C:\Users\UX500019\source\repos\OOPSExercise\StringHomeTask\obj\Debug\netcoreapp3.1\StringHomeTask.AssemblyInfoInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\StringHomeTask\obj\Debug\netcoreapp3.1\StringHomeTask.AssemblyInfo.cs
+C:\Users\UX500019\source\repos\OOPSExercise\StringHomeTask\obj\Debug\netcoreapp3.1\StringHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\StringHomeTask\obj\Debug\netcoreapp3.1\StringHomeTask.dll
+C:\Users\UX500019\source\repos\OOPSExercise\StringHomeTask\obj\Debug\netcoreapp3.1\StringHomeTask.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\StringHomeTask\obj\Debug\netcoreapp3.1\StringHomeTask.genruntimeconfig.cache

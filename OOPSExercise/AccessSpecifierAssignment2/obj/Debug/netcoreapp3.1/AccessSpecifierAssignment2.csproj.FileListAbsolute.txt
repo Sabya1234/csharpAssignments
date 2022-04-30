@@ -1,0 +1,13 @@
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierAssignment2\bin\Debug\netcoreapp3.1\AccessSpecifierAssignment2.exe
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierAssignment2\bin\Debug\netcoreapp3.1\AccessSpecifierAssignment2.deps.json
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierAssignment2\bin\Debug\netcoreapp3.1\AccessSpecifierAssignment2.runtimeconfig.json
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierAssignment2\bin\Debug\netcoreapp3.1\AccessSpecifierAssignment2.runtimeconfig.dev.json
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierAssignment2\bin\Debug\netcoreapp3.1\AccessSpecifierAssignment2.dll
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierAssignment2\bin\Debug\netcoreapp3.1\AccessSpecifierAssignment2.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierAssignment2\obj\Debug\netcoreapp3.1\AccessSpecifierAssignment2.AssemblyInfoInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierAssignment2\obj\Debug\netcoreapp3.1\AccessSpecifierAssignment2.AssemblyInfo.cs
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierAssignment2\obj\Debug\netcoreapp3.1\AccessSpecifierAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierAssignment2\obj\Debug\netcoreapp3.1\AccessSpecifierAssignment2.dll
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierAssignment2\obj\Debug\netcoreapp3.1\AccessSpecifierAssignment2.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierAssignment2\obj\Debug\netcoreapp3.1\AccessSpecifierAssignment2.genruntimeconfig.cache
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierAssignment2\obj\Debug\netcoreapp3.1\AccessSpecifierAssignment2.csprojAssemblyReference.cache

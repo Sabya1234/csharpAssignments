@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestName", "LongestName.csproj", "{019B47AB-2688-412C-9691-F96C144F8F6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "..\Factorial\Factorial.csproj", "{41554CAE-43C1-4B47-9AAD-C9A9C47B2D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "..\Fibonacci\Fibonacci.csproj", "{0318A93C-EBE8-4073-BFD8-2CC59418A635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{019B47AB-2688-412C-9691-F96C144F8F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{019B47AB-2688-412C-9691-F96C144F8F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019B47AB-2688-412C-9691-F96C144F8F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{019B47AB-2688-412C-9691-F96C144F8F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41554CAE-43C1-4B47-9AAD-C9A9C47B2D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41554CAE-43C1-4B47-9AAD-C9A9C47B2D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41554CAE-43C1-4B47-9AAD-C9A9C47B2D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41554CAE-43C1-4B47-9AAD-C9A9C47B2D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0318A93C-EBE8-4073-BFD8-2CC59418A635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0318A93C-EBE8-4073-BFD8-2CC59418A635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0318A93C-EBE8-4073-BFD8-2CC59418A635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0318A93C-EBE8-4073-BFD8-2CC59418A635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {668B691B-25CD-41C7-87A5-3F8BF64F6B59}
+	EndGlobalSection
+EndGlobal

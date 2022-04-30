@@ -1,0 +1,13 @@
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierHomeTask1\bin\Debug\netcoreapp3.1\AccessSpecifierHomeTask1.exe
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierHomeTask1\bin\Debug\netcoreapp3.1\AccessSpecifierHomeTask1.deps.json
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierHomeTask1\bin\Debug\netcoreapp3.1\AccessSpecifierHomeTask1.runtimeconfig.json
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierHomeTask1\bin\Debug\netcoreapp3.1\AccessSpecifierHomeTask1.runtimeconfig.dev.json
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierHomeTask1\bin\Debug\netcoreapp3.1\AccessSpecifierHomeTask1.dll
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierHomeTask1\bin\Debug\netcoreapp3.1\AccessSpecifierHomeTask1.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierHomeTask1\obj\Debug\netcoreapp3.1\AccessSpecifierHomeTask1.csprojAssemblyReference.cache
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierHomeTask1\obj\Debug\netcoreapp3.1\AccessSpecifierHomeTask1.AssemblyInfoInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierHomeTask1\obj\Debug\netcoreapp3.1\AccessSpecifierHomeTask1.AssemblyInfo.cs
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierHomeTask1\obj\Debug\netcoreapp3.1\AccessSpecifierHomeTask1.csproj.CoreCompileInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierHomeTask1\obj\Debug\netcoreapp3.1\AccessSpecifierHomeTask1.dll
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierHomeTask1\obj\Debug\netcoreapp3.1\AccessSpecifierHomeTask1.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\AccessSpecifierHomeTask1\obj\Debug\netcoreapp3.1\AccessSpecifierHomeTask1.genruntimeconfig.cache

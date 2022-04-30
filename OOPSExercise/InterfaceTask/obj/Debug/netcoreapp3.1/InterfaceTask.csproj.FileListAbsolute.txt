@@ -1,0 +1,12 @@
+C:\Users\UX500019\source\repos\OOPSExercise\InterfaceTask\bin\Debug\netcoreapp3.1\InterfaceTask.exe
+C:\Users\UX500019\source\repos\OOPSExercise\InterfaceTask\bin\Debug\netcoreapp3.1\InterfaceTask.deps.json
+C:\Users\UX500019\source\repos\OOPSExercise\InterfaceTask\bin\Debug\netcoreapp3.1\InterfaceTask.runtimeconfig.json
+C:\Users\UX500019\source\repos\OOPSExercise\InterfaceTask\bin\Debug\netcoreapp3.1\InterfaceTask.runtimeconfig.dev.json
+C:\Users\UX500019\source\repos\OOPSExercise\InterfaceTask\bin\Debug\netcoreapp3.1\InterfaceTask.dll
+C:\Users\UX500019\source\repos\OOPSExercise\InterfaceTask\bin\Debug\netcoreapp3.1\InterfaceTask.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\InterfaceTask\obj\Debug\netcoreapp3.1\InterfaceTask.AssemblyInfoInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\InterfaceTask\obj\Debug\netcoreapp3.1\InterfaceTask.AssemblyInfo.cs
+C:\Users\UX500019\source\repos\OOPSExercise\InterfaceTask\obj\Debug\netcoreapp3.1\InterfaceTask.csproj.CoreCompileInputs.cache
+C:\Users\UX500019\source\repos\OOPSExercise\InterfaceTask\obj\Debug\netcoreapp3.1\InterfaceTask.dll
+C:\Users\UX500019\source\repos\OOPSExercise\InterfaceTask\obj\Debug\netcoreapp3.1\InterfaceTask.pdb
+C:\Users\UX500019\source\repos\OOPSExercise\InterfaceTask\obj\Debug\netcoreapp3.1\InterfaceTask.genruntimeconfig.cache
